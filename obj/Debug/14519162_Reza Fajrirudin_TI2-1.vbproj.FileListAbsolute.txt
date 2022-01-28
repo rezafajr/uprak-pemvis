@@ -1,0 +1,12 @@
+C:\Users\mahasiswa\source\repos\14519162_Reza Fajrirudin_TI2-1\bin\Debug\14519162_Reza Fajrirudin_TI2-1.exe.config
+C:\Users\mahasiswa\source\repos\14519162_Reza Fajrirudin_TI2-1\bin\Debug\14519162_Reza Fajrirudin_TI2-1.exe
+C:\Users\mahasiswa\source\repos\14519162_Reza Fajrirudin_TI2-1\bin\Debug\14519162_Reza Fajrirudin_TI2-1.pdb
+C:\Users\mahasiswa\source\repos\14519162_Reza Fajrirudin_TI2-1\bin\Debug\14519162_Reza Fajrirudin_TI2-1.xml
+C:\Users\mahasiswa\source\repos\14519162_Reza Fajrirudin_TI2-1\obj\Debug\14519162_Reza Fajrirudin_TI2-1.vbprojAssemblyReference.cache
+C:\Users\mahasiswa\source\repos\14519162_Reza Fajrirudin_TI2-1\obj\Debug\_14519162_Reza_Fajrirudin_TI2_1.Form1.resources
+C:\Users\mahasiswa\source\repos\14519162_Reza Fajrirudin_TI2-1\obj\Debug\_14519162_Reza_Fajrirudin_TI2_1.Resources.resources
+C:\Users\mahasiswa\source\repos\14519162_Reza Fajrirudin_TI2-1\obj\Debug\14519162_Reza Fajrirudin_TI2-1.vbproj.GenerateResource.cache
+C:\Users\mahasiswa\source\repos\14519162_Reza Fajrirudin_TI2-1\obj\Debug\14519162_Reza Fajrirudin_TI2-1.vbproj.CoreCompileInputs.cache
+C:\Users\mahasiswa\source\repos\14519162_Reza Fajrirudin_TI2-1\obj\Debug\14519162_Reza Fajrirudin_TI2-1.exe
+C:\Users\mahasiswa\source\repos\14519162_Reza Fajrirudin_TI2-1\obj\Debug\14519162_Reza Fajrirudin_TI2-1.xml
+C:\Users\mahasiswa\source\repos\14519162_Reza Fajrirudin_TI2-1\obj\Debug\14519162_Reza Fajrirudin_TI2-1.pdb
